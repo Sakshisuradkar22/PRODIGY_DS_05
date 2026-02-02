@@ -1,3 +1,4 @@
+# Due to the large size of the dataset, the file was stored locally and processed using chunk-based loading to avoid memory limitations.
 # Task 05: Traffic Accident Analysis & Visualization  
 
 ## Dataset  
